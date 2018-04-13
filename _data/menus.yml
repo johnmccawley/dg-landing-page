@@ -1,8 +1,8 @@
 ---
 navigation:
 - url: "/how-it-works"
-  weight: 6
+  weight: 8
   title: How it Works
 - url: "/why-dg"
-  weight: 5
+  weight: 7
   title: Why Digital Garage
