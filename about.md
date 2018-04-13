@@ -10,11 +10,9 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
+    url: "/about/"
     weight: 3
 ---
 
