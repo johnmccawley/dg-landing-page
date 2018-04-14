@@ -1,6 +1,7 @@
 title: The Digital Garage, Inc.
 short_title: Digital Garage
 description: The Digital Garage, Inc. Landing Page
+theme: jekyll-theme-materialize
 baseurl: /
 permalink: "/:path/"
 defaults:
